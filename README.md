@@ -7,7 +7,7 @@
 
 <h2>👨‍💻Certification :</h2>
 
-- Google IT Support Professional (https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google IT Support Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2>📺 Popular YouTube Videos</h2>
 
