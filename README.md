@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab]([https://github.com/joshmadakor1/Sentinel-Lab](https://github.com/CyberVu-Lab/ActiveDirectoryLab))
+  - [Active Directory Home Lab](https://github.com/CyberVu-Lab/ActiveDirectoryLab))
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
 
 <h2>👨‍💻Certification :</h2>
