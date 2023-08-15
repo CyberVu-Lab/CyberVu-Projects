@@ -7,12 +7,12 @@
 
 <h2>👨‍💻Certification :</h2>
 
-- [Google Data Analytics](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Google IT Support](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Google IT Automation with Python](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [IBM Cybersecurity Analyst](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Google Cybersecurity](https://coursera.org/verify/3D5XWGY562KL)
-- [Palo Alto Networks Cybersecurity](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google Data Analytics](https://coursera.org/share/e2f370519c1da1f3d097a7d2cfce6e33)
+- [Google IT Support](https://coursera.org/share/32ffec822e8b5f900bcb0fa1142c38e0)
+- [Google IT Automation with Python](https://coursera.org/share/2644b7e8d5c4551462b38b968a1b95d2)
+- [IBM Cybersecurity Analyst](https://coursera.org/share/d6cb735b59bb3a92ebd8a763917f59b3)
+- [Google Cybersecurity](https://coursera.org/share/287c5c8c23d43b3177f5986e7e760438)
+- [Palo Alto Networks Cybersecurity](https://coursera.org/share/4e60a65ac972ceaebf6fa0f24e2e7a45)
 
 
 <h2>📺 Popular YouTube Videos</h2>
