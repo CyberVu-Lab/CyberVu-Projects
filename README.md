@@ -7,7 +7,13 @@
 
 <h2>👨‍💻Certification :</h2>
 
-- [Google IT Support Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google Data Analytics](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google IT Support](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google IT Automation with Python](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [IBM Cybersecurity Analyst](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google Cybersecurity](https://coursera.org/verify/3D5XWGY562KL)
+- [Palo Alto Networks Cybersecurity](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
