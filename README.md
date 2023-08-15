@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/CyberVu-Lab/ActiveDirectoryLab)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Active Directory Bulk User Creation](https://github.com/CyberVu-Lab/AD_Powershell)
 
 <h2>👨‍💻Certification :</h2>
 
