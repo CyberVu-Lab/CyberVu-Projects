@@ -1,6 +1,18 @@
 <h1>Hi, I'm Vu!</h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h1>👨‍💻 Cybersecurity Projects:</h1>
+
+<h2>👨‍💻 Active Directory:</h2>
+
+  - [Active Directory Home Lab](https://github.com/CyberVu-Lab/ActiveDirectoryLab)
+  - [Active Directory Bulk User Creation](https://github.com/CyberVu-Lab/AD_Powershell)
+
+<h2>👨‍💻 Powershell:</h2>
+
+  - [Active Directory Home Lab](https://github.com/CyberVu-Lab/ActiveDirectoryLab)
+  - [Active Directory Bulk User Creation](https://github.com/CyberVu-Lab/AD_Powershell)
+
+<h2>👨‍💻 Security Information and Event Management system - SIEM</h2>
 
   - [Active Directory Home Lab](https://github.com/CyberVu-Lab/ActiveDirectoryLab)
   - [Active Directory Bulk User Creation](https://github.com/CyberVu-Lab/AD_Powershell)
